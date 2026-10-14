@@ -3,11 +3,11 @@ namespace Costume;
 public class Costume
 {
     // attributes
-    public string _headwear;
-    public string _upperGarment;
-    public string _lowerGarment;
-    public string _footwear;
-    public string _accessory;
+    public string _headwear = "";
+    public string _upperGarment = "";
+    public string _lowerGarment = "";
+    public string _footwear = "";
+    public string _accessory = "";
 
     // behavior
     public void Output()
