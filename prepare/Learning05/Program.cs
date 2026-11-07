@@ -7,3 +7,4 @@ class Program
         Console.WriteLine("Hello Learning05 World!");
     }
 }
+//  base activity, breathing, listing, reflection, maybe a program, menu, 
